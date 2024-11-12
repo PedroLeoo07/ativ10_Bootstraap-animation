@@ -1,0 +1,11 @@
+body{
+    justify-content: center;
+    display: flex;
+    gap: 3rem;
+    margin-top: 10rem;
+}
+
+body img{
+    width: auto;
+    height: 20rem;
+}
